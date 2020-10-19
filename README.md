@@ -15,7 +15,7 @@
 ### BAHIA
 [http://www.ouvidoria.ba.gov.br/modules/conteudo/conteudo.php?conteudo=71](http://www.ouvidoria.ba.gov.br/modules/conteudo/conteudo.php?conteudo=71)
 
-### CEARÁ - DECON
+### CEARÁ
 [http://www.mpce.mp.br/decon/](http://www.mpce.mp.br/decon/)
 
 ### DISTRITO FEDERAL
