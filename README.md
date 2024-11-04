@@ -13,7 +13,7 @@
 [http://www.procon.am.gov.br/](http://www.procon.am.gov.br/)
 
 ### BAHIA
-[http://www.ouvidoria.ba.gov.br/modules/conteudo/conteudo.php?conteudo=71](http://www.ouvidoria.ba.gov.br/modules/conteudo/conteudo.php?conteudo=71)
+[https://www.ba.gov.br/justica/84/postos-de-atendimento-procon-ba](https://www.ba.gov.br/justica/84/postos-de-atendimento-procon-ba)
 
 ### CEARÁ
 [http://www.mpce.mp.br/decon/](http://www.mpce.mp.br/decon/)
@@ -67,7 +67,7 @@
 [http://www.rondonia.ro.gov.br/procon/](http://www.rondonia.ro.gov.br/procon/)
 
 ### RORAIMA
-[https://www.boavista.rr.gov.br/prefeitura-secretarias-e-orgaos-municipais-estrutura/procon-secretaria-executiva-de-defesa-do-consumidor (Boa Vista)](https://www.boavista.rr.gov.br/prefeitura-secretarias-e-orgaos-municipais-estrutura/procon-secretaria-executiva-de-defesa-do-consumidor)
+[https://al.rr.leg.br/procon/](https://al.rr.leg.br/procon/)
 
 ### SANTA CATARINA
 [https://www.procon.sc.gov.br/](https://www.procon.sc.gov.br/)
